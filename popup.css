@@ -1,0 +1,23 @@
+input#url {
+    width: 200px;
+    font-size: 15px;
+}
+
+p#message {
+    width: 150px;
+    float: left;
+    margin: 7px 0 0 0;
+    line-height: 22px;
+    color: #4cae4c;
+}
+
+input#submit {
+    color: #fff;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    font-size: 12px;
+    margin: 7px 0 0 0;
+    float: right;
+}
